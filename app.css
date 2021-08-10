@@ -1,0 +1,28 @@
+.mainContainer {
+    padding-top: 1rem;
+}
+
+.ruleSectionList {
+    list-style: none;
+    padding-left: 0;
+}
+
+.ruleSectionList li {
+    line-height: 2rem;
+    padding-left: .5rem;
+    cursor: pointer;
+}
+
+.ruleSectionList li:hover {
+    background-color: #cecef7;
+    border-radius: .2rem;
+}
+
+.ruleContentsList {
+    list-style: none;
+    padding-left: 0;
+}
+
+.ruleContentsList li span {
+    font-weight: bold;
+}
